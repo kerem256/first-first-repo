@@ -1,5 +1,0 @@
-This is the very beginning of git
-
-changed
-
-changed again
